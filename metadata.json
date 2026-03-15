@@ -1,0 +1,5 @@
+{
+  "name": "Echo-Cook 2.0",
+  "description": "A voice-first, glance-required culinary HUD. Features proactive timers, pantry sync, and visual technique anchors.",
+  "requestFramePermissions": ["microphone"]
+}
