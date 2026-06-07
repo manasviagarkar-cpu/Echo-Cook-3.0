@@ -15,7 +15,7 @@ Built for performance, modern aesthetics, and seamless real-time interactions:
 
 ---
 
-## 🧠 Core Features & Architecture
+## 🧠 Core Features & Architecture 
 
 *   **Duplex Conversation Loop:** Engineered for the messy kitchen environment. The frontend automatically grants continuous microphone access immediately following step completions, ensuring a zero-touch, fluid dialogue stream without requiring repeated manual activation.
 *   **Pantry Memory Engine:** Keeps track of available ingredients in real time, cross-referencing pantry state against target recipe requirements.
